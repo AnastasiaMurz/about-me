@@ -7,3 +7,4 @@
 - люблю делать что-то своими руками
 - люблю готовить
 
+![Мое фото](https://github.com/AnastasiaMurz/about-me/assets/135687712/ceb22212-0d20-4159-bfa1-1db50db3eea6)
